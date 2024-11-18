@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TextEditor.Models;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Menu.Show();
+    }
+}
