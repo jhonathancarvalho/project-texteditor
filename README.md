@@ -1,4 +1,4 @@
-### 🟪 Project TextEditor – Editor de Texto Console App em .NET
+###  Project TextEditor – Editor de Texto Console App em .NET
 
 Projeto desenvolvido para exercitar os fundamentos de **C#** com **.NET 8**, criando um editor de texto funcional via terminal.
 
@@ -6,23 +6,23 @@ Ideal para quem está aprendendo a trabalhar com entrada/saída de arquivos, men
 
 ---
 
-#### 🟪 Funcionalidades
+####  Funcionalidades
 
-🟪 Criar e salvar arquivos de texto  
-🟪 Abrir e editar arquivos existentes  
-🟪 Excluir arquivos salvos  
-🟪 Menu interativo com opções simples e intuitivas  
-🟪 Validação de entrada com tratamento de erros  
+🟣 Criar e salvar arquivos de texto  
+🟣 Abrir e editar arquivos existentes  
+🟣 Excluir arquivos salvos  
+🟣 Menu interativo com opções simples e intuitivas  
+🟣 Validação de entrada com tratamento de erros  
 
 ---
 
-#### 🟪 Conceitos Praticados
+####  Conceitos Praticados
 
-🟪 Programação Orientada a Objetos  
-🟪 Leitura e Escrita de Arquivos no Console  
-🟪 Estruturação de Menus e Controle de Fluxo  
-🟪 Modularização de funcionalidades  
-🟪 Boas Práticas de Interface e Organização de Código  
+🟣 Programação Orientada a Objetos  
+🟣 Leitura e Escrita de Arquivos no Console  
+🟣 Estruturação de Menus e Controle de Fluxo  
+🟣 Modularização de funcionalidades  
+🟣 Boas Práticas de Interface e Organização de Código  
 
 ---
 
