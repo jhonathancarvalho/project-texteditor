@@ -1,32 +1,33 @@
-### 🟣 Project TextEditor – Editor de Texto Console App em .NET
+### 🟣 Project TextEditor – Applicazione Console Editor di Testo in .NET
 
-Projeto desenvolvido para exercitar os fundamentos de **C#** com **.NET 8**, criando um editor de texto funcional via terminal.
+Progetto sviluppato per esercitare i fondamenti di **C#** con **.NET 8**, creando un editor di testo funzionale tramite terminale.
 
-Ideal para quem está aprendendo a trabalhar com entrada/saída de arquivos, menus interativos e controle de fluxo utilizando boas práticas de programação orientada a objetos.
-
----
-
-####  Funcionalidades
-
-🟣 Criar e salvar arquivos de texto  
-🟣 Abrir e editar arquivos existentes  
-🟣 Excluir arquivos salvos  
-🟣 Menu interativo com opções simples e intuitivas  
-🟣 Validação de entrada com tratamento de erros  
+Ideale per chi sta imparando a lavorare con input/output di file, menu interattivi e controllo di flusso, applicando buone pratiche di programmazione orientata agli oggetti.
 
 ---
 
-####  Conceitos Praticados
+#### Funzionalità
 
-🟣 Programação Orientada a Objetos  
-🟣 Leitura e Escrita de Arquivos no Console  
-🟣 Estruturação de Menus e Controle de Fluxo  
-🟣 Modularização de funcionalidades  
-🟣 Boas Práticas de Interface e Organização de Código  
+🟣 Creare e salvare file di testo  
+🟣 Aprire e modificare file esistenti  
+🟣 Eliminare file salvati  
+🟣 Menu interattivo con opzioni semplici e intuitive  
+🟣 Validazione dell’input con gestione degli errori  
 
 ---
 
-Tecnologias  
+#### Concetti Praticati
+
+🟣 Programmazione Orientata agli Oggetti  
+🟣 Lettura e Scrittura di File nel Console  
+🟣 Strutturazione di Menu e Controllo di Flusso  
+🟣 Modularizzazione delle Funzionalità  
+🟣 Buone Pratiche di Interfaccia e Organizzazione del Codice  
+
+---
+
+#### Tecnologie  
+
 <p>
   <img src="https://img.shields.io/badge/CSharp-512BD4?style=flat&logo=csharp&logoColor=white" alt="CSharp" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
